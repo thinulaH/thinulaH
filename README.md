@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thinula Harischandra</h1>
-<h3 align="center">Turning Ideas into Solutions | Passiout Software Development, AI, and Data-Driven Innovations 🚀</h3>
+<h3 align="center">Turning Ideas into Impactful Solutions | Passionate About Software Development, AI, and Data-Driven Innovations for a Smarter Future 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thinulah&label=Profile%20views&color=0e75b6&style=flat" alt="thinulah" /> </p>
 
