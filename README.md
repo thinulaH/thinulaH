@@ -66,10 +66,8 @@
 - 🎓 Computer Science Undergraduate  
 - 🧠 Exploring AI, ML, and Data Science  
 - 🛠️ Love building educational tools & innovative projects  
-- 🎮 Making learning fun with gamified apps (Unity, Firebase, GCP)  
+- 🎮 Making learning fun with gamified apps (Unity, Firebase, GCP)
 - 📈 Always learning and improving
 
 ---
 
-> *"Code with curiosity. Build with purpose. Grow with passion."*  
-> — Thinula Harischandra
